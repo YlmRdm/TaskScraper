@@ -13,7 +13,7 @@ This tool tries to scrape some web data from [this website](https://www.koton.co
 If you just want to see scraping file, Take a look at [`here`](taskscraper/scalprum/scalprum.py).
 
 ## Tasks
-You can read [`the task document`](/docs/) to understand better. 
+You can read [`the task document`](docs/task.pdf) to understand better. 
 In the meantime, There are some errors in the projects so, this project will be keep going on. 
 
 ## Usage
