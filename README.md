@@ -10,7 +10,7 @@ This tool tries to scrape some web data from [this website](https://www.koton.co
 
 > pip3 install -r requirements.txt
 
-If you just want to see scraping file, Take a look at [`here`]().
+If you just want to see scraping file, Take a look at [`here`](taskscraper/scalprum/scalprum.py).
 
 ## Tasks
 You can read [`the task document`](/docs/) to understand better. 
