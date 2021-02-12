@@ -52,7 +52,7 @@ def scalprum(*args, **options):
         except:
             print('%s %s already exists' % (pid, title))
     print(products)
-    self.stdout.write('scraping ended')
+    # self.stdout.write('scraping ended')
 if __name__ == "__main__":
     scalprum()
     # df_bs = pd.DataFrame(products,columns=['pid','title','images', 'productCategory', 'colors', 'prices', 'discount'])
